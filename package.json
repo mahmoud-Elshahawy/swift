@@ -1,0 +1,19 @@
+{
+  "name": "time-jogging",
+  "version": "1.0.0",
+  "description": "Time Jogging task.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Mahmoud-Elshahawy",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "md5": "^2.3.0",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
